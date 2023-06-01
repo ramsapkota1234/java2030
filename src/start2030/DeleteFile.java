@@ -9,6 +9,7 @@ public class DeleteFile {
 			System.out.println("file is sucessfully deleted");
 		}else {
 			System.out.println("the file is deleted");
+			System.out.println("hello ram");
 		}
 	}
 
